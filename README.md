@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9D55FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Eric+Capiz+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Digital+Solutions+That+Matter+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E8BC0&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Eric+Capiz+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Digital+Solutions+That+Matter+%F0%9F%8C%9F" alt="Typing SVG" />
   
   <br/>
   
-  <a href="https://www.ericcapiz.com">
-    <img src="https://img.shields.io/badge/-Portfolio%20Website-9d55ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://www.ericcapiz.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Portfolio%20Website-2E8BC0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/eric-capiz">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/eric-capiz" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-2E8BC0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;
+  <a href="mailto:your.email@example.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Email-2E8BC0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -34,29 +36,31 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ericcapiz/lost-and-found">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=lost-and-found&theme=radical&bg_color=0d1117&title_color=9d55ff&hide_border=true&icon_color=9d55ff" />
+  <a href="https://github.com/ericcapiz/lost-and-found" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=lost-and-found&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0" />
   </a>
-  <a href="https://github.com/ericcapiz/card-vault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=card-vault&theme=radical&bg_color=0d1117&title_color=9d55ff&hide_border=true&icon_color=9d55ff" />
+  <a href="https://github.com/ericcapiz/card-vault" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=card-vault&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0" />
   </a>
-  <a href="https://github.com/ericcapiz/zeta-movies">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=zeta-movies&theme=radical&bg_color=0d1117&title_color=9d55ff&hide_border=true&icon_color=9d55ff" />
+  <a href="https://github.com/ericcapiz/zeta-movies" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=zeta-movies&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0" />
   </a>
-  <a href="https://github.com/ericcapiz/nandos_cakes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=nandos_cakes&theme=radical&bg_color=0d1117&title_color=9d55ff&hide_border=true&icon_color=9d55ff" />
+  <a href="https://github.com/ericcapiz/nandos_cakes" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=nandos_cakes&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.ericcapiz.com">
-    <img src="https://img.shields.io/badge/Portfolio-ericcapiz.com-9d55ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://www.ericcapiz.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-ericcapiz.com-2E8BC0?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/eric-capiz">
-    <img src="https://img.shields.io/badge/LinkedIn-Eric_Capiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/eric-capiz" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Eric_Capiz-2E8BC0?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9d55ff&height=120&section=footer"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ericcapiz&color=2E8BC0&style=for-the-badge" />
+</div>
