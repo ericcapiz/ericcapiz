@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-2E8BC0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com" style="text-decoration: none;">
+  <a href="mailto:ericcapiz@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Email-2E8BC0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
