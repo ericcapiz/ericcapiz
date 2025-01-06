@@ -41,7 +41,7 @@
   </a>
 <a href="https://github.com/ericcapiz/card-vault" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=card-vault&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true" />
-</a>>
+</a>
   <a href="https://github.com/ericcapiz/zeta-movies" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=zeta-movies&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true" />
   </a>
