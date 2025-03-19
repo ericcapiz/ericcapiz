@@ -46,7 +46,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=barbershop&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true" />
   </a>
   <a href="https://github.com/ericcapiz/course-correct" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=course-corrects&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericcapiz&repo=course-correct&theme=github_dark&bg_color=0d1117&title_color=2E8BC0&hide_border=true&icon_color=2E8BC0&description=true&show_owner=true" />
   </a>
 </div>
 
